@@ -7,3 +7,5 @@ if (user == 5) {
 } else {
   console.log("User is not 5");
 }
+
+console.log("Happy Birthday!");
